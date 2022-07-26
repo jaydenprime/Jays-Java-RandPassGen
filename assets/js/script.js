@@ -49,11 +49,7 @@ for (var i = 0; i < length; i++) {
   password += keySet[index];
 };
 
-
   passwordText.value = password;
-
-
-// var password = generatePassword(); (NOT NEEDED i dont think)
 
 }
 
