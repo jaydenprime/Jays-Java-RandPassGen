@@ -60,3 +60,6 @@ for (var i = 0; i < length; i++) {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+// Clears password text area on refresh
+document.getElementById('password').value = '';
+
