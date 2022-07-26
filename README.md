@@ -29,10 +29,10 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Examples
 
-![Asking for uppercase](./assets/images/demo-1.png)
-![Asking for lowercase](./assets/images/demo-2.png)
-![Asking for numeric value](./assets/images/demo-3.png)
-![Asking for special characters](./assets/images/demo-4.png)
-![Asking for password length](./assets/images/demo-5.png)
-![Password generated](./assets/images/demo-6.png)
+![Asking for uppercase](./assets/images/demo-1.PNG)
+![Asking for lowercase](./assets/images/demo-2.PNG)
+![Asking for numeric value](./assets/images/demo-3.PNG)
+![Asking for special characters](./assets/images/demo-4.PNG)
+![Asking for password length](./assets/images/demo-5.PNG)
+![Password generated](./assets/images/demo-6.PNG)
 
