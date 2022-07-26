@@ -4,7 +4,7 @@ var generateBtn = document.querySelector("#generate");
 var keyUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var keyLower = "abcdefghijklmnopqrstuvwxyz";
 var number = "0123456789"
-var symbol = "!@#$%^&*()"
+var symbol = "!@'#$%^&*()<=>+?[\]_`{|}~/:;-.,"
 
 
 // Write password to the #password input
